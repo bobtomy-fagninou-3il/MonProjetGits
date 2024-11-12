@@ -1,1 +1,2 @@
 VOICI la premiere modification de mon fichier.
+c'est super pratique git en plus c'est gratuit.git add fichier1.txt
