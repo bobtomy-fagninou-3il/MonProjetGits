@@ -1,2 +1,3 @@
 Description du projet.
-ceci est un tp pour voir comment git fonctionne
+ceci est un tp pour voir comment git fonctionne.
+voici une ligne supplementaire.
